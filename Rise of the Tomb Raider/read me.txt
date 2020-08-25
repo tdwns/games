@@ -1,0 +1,3 @@
+extract to my documents
+
+or extract 391220.7z to: C:\Users\%username%\Documents\CPY_SAVES\CPY\

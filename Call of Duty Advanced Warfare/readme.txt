@@ -1,0 +1,1 @@
+Extract to D:\Program Files (x86)\Activision\Call of Duty - Advanced Warfare
