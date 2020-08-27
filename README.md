@@ -1,4 +1,4 @@
-# User files of the games that I played!
+# User files of the PC games that I played!
 
 ```
 18 Wheels of Steel Extreme Trucker
@@ -45,6 +45,7 @@ IGI 2
 Just Cause 2
 King of the Road
 Mass Effect 3
+Max Max
 Medal of Honor Warfighter
 Metal Gear Solid V - The Phantom Pain
 Need for Speed 2 (II) SE
