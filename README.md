@@ -1,6 +1,7 @@
 # User files of the PC games that I played!
 
 ```
+Far Cry 3
 Control
 Watch_Dogs
 Max Max
