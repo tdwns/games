@@ -1,6 +1,7 @@
 # User files of the PC games that I played!
 
 ```
+Shadow of the Tomb Raider
 Far Cry 3
 Control
 Watch_Dogs
