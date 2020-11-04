@@ -1,1 +1,0 @@
-extract to c:\users\<username>\saved games

@@ -1,1 +1,0 @@
-Extract to C:\docu~sett\{User Name}\local settings\application data\

@@ -1,2 +1,0 @@
-extract uplay.7z to: C:\Users\%username%\AppData\Roaming
-extract Rainbow Six - Siege.7z to C:\Users\%username%\Documents\My Games

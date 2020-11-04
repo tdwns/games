@@ -1,3 +1,3 @@
 # Shadow of the Tomb Raider
-Extract to my documents
-[Download save files](Shadow%20of%20the%20Tomb%20Raider.7z?raw=true)
+[Save files: Shadow of the Tomb Raider.7z](Shadow%20of%20the%20Tomb%20Raider.7z?raw=true)
+##### Extract to My Documents
