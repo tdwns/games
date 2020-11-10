@@ -22,6 +22,8 @@
 
 [Tom Clancy's Splinter Cell Blacklist](Tom%20Clancy's%20Splinter%20Cell%20Blacklist/readme.md)
 
+[Tom Clancy's Ghost Recon Future Soldier](Tom%20Clancy's%20Ghost%20Recon%20Future%20Soldier/readme.md)
+
 [Test Drive Unlimited 2](Test%20Drive%20Unlimited%202/readme.md)
 
 [Splinter Cell Conviction](Splinter%20Cell%20Conviction/readme.md)
