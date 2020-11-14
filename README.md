@@ -1,5 +1,7 @@
 # User files of the PC games that I played!
 
+[Far Cry 4](Far%20Cry%204/readme.md)
+
 [Shadow of the Tomb Raider](Shadow%20of%20the%20Tomb%20Raider/readme.md)
 
 [Far Cry 3](Far%20Cry%203/readme.md)
