@@ -5,6 +5,11 @@
 RLD! version
 Extract to C:\ProgramData
 
+###### Favourite quotes
+> "I don't look back anymore. I don't regret. I look forward. Everything is connected, and I'll use that to expose, to protect, and if necessary - to punish." 😌👌
+
+Facebook post: https://www.facebook.com/tdwns/posts/1400011636860451
+
 ### Additional:
 
 How to install the savegame ? (save game location/folder ?)
