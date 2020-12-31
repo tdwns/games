@@ -1,5 +1,9 @@
 # User files of the PC games that I played!
 
+[Mafia Definitive Edition](Mafia%20Definitive%20Edition/readme.md)
+
+[BioShock Infinite - GOTY Edition](BioShock%20Infinite%20-%20GOTY%20Edition/readme.md)
+
 [Watch_Dogs 2](Watch_Dogs%202/readme.md)
 
 [Far Cry 4](Far%20Cry%204/readme.md)
