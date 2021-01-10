@@ -1,4 +1,5 @@
 # User files of the PC games that I played!
+![](cover.jpg)
 
 [Mafia Definitive Edition](Mafia%20Definitive%20Edition/readme.md)
 
