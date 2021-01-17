@@ -1,5 +1,20 @@
-# User files of the PC games that I played!
+# User files & screenshots of the PC games that I played!
 ![](cover.jpg)
+
+### My Rig
+
+|Year|Rig|
+| ----------- | ----------- |
+| 2008 | Intel® Pentium® 4 2.40 GHz<br>Intel® Extreme Graphics 64 MB<br>256 MB 333 MHz DDR1<br>40 GB 7200 RPM 3.5" IDE<br>19" CRT<br>Windows XP SP 2|
+| 2011 | Intel® Pentium® 4 3.00 GHz<br>NVIDIA® GeForce FX 5200 128 MB<br>1 GB 400 MHz DDR1<br>160 GB 7200 RPM 3.5" IDE<br>15" LCD<br>Windows XP SP 3|
+| 2012 - 2015 |Different different laptops<br>(Acer Aspire One,<br>Toshiba Satellite)|
+| 2015 | Lenovo G50-80<br>Intel® Core™ i5 5200U<br>Intel® HD Graphics 5500<br>4 GB 1600 MHz DDR3<br>1 TB 5400 RPM<br>15.6" LCD HD<br>Windows 10|
+| 2016 | Acer Aspire E5-575G<br>Intel® Core™ i5 6200U<br>NVIDIA® GeForce® 940MX 2GB<br>8 GB 2133 MHz DDR4<br>1 TB 5400 RPM<br>15.6" LCD FHD<br>Windows 10|
+| 2020 | Acer Predator PH315-52<br>Intel® Core™ i7-9750H<br>NVIDIA® GeForce® RTX™ 2060 6GB<br>16 GB 2666 MHz DDR4<br>256 GB NVMe + 1 TB 7200 RPM<br>15.6" LCD IPS FHD 144Hz<br>Windows 10|
+
+### List
+
+[BioShock Remastered](BioShock%20Remastered/readme.md)
 
 [Mafia Definitive Edition](Mafia%20Definitive%20Edition/readme.md)
 
