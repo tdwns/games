@@ -16,11 +16,13 @@
 
 [Cyberpunk 2077](Cyberpunk%202077/readme.md)
 
+[BioShock Infinite - GOTY Edition](BioShock%20Infinite%20-%20GOTY%20Edition/readme.md)
+
+[BioShock 2 Remastered](BioShock%202%20Remastered/readme.md)
+
 [BioShock Remastered](BioShock%20Remastered/readme.md)
 
 [Mafia Definitive Edition](Mafia%20Definitive%20Edition/readme.md)
-
-[BioShock Infinite - GOTY Edition](BioShock%20Infinite%20-%20GOTY%20Edition/readme.md)
 
 [Watch_Dogs 2](Watch_Dogs%202/readme.md)
 
