@@ -23,12 +23,15 @@
 [Cyberpunk2077 2021-04-05 23-37-47-111-V Suicides.mkv](Videos/Cyberpunk2077%202021-04-05%2023-37-47-111-V%20Suicides.mkv?raw=true)
 <br />
 
-##### Extract to C:\Users\%username%\Saved Games\CD Projekt Red\
+##### Extract to C:\Users\\%username%\Saved Games\CD Projekt Red\
 
 ###### Favourite quotes
 > "Wake the fuck up, Samurai! We have a city to burn."
+<br />
 > "Haven't forgotten a thing. Never will."
-> "Goodbye, V and never stop fightin'"
+<br />
+> "Goodbye, V. And never stop fightin'" 
+<br />
 > "See you in the major leagues Jack"
 
 Well well, after playing 100+ hrs, I found this game is the one of the best games I've ever played so far. I know there're bugs, glitches, bad AI & physics, but the story.., it's GOOD! Specially in romance with [Judy](https://www.youtube.com/watch?v=3fW3QhJZ8Io) and the [endings](https://www.youtube.com/watch?v=48-AY6Wz-7A), it's really emotional ❤️ Overall, it's a very good game to play!
@@ -36,6 +39,7 @@ Well well, after playing 100+ hrs, I found this game is the one of the best game
 Follow the powerpyx's guild to select correct dialogue options (which is very important to romances and side quests) and get the all endings at the end mission. It provides very clear guidance.
 
 [https://www.powerpyx.com/cyberpunk-2077-walkthrough-all-missions/](https://www.powerpyx.com/cyberpunk-2077-walkthrough-all-missions/)
+<br />
 [https://www.powerpyx.com/guide/cyberpunk-2077/](https://www.powerpyx.com/guide/cyberpunk-2077/)
 
 ###### Additional: 
@@ -46,4 +50,4 @@ Pro tip: Make regular backups of the save files (after every game play at least)
 Judy Romance Song ❤️ (Judy's last quest: Pyramid song) [https://www.youtube.com/watch?v=8wyYp0OnY5k](https://www.youtube.com/watch?v=8wyYp0OnY5k)
 
 
-Facebook post: 
+Facebook post: https://www.facebook.com/tdwns/posts/1534845090043771
