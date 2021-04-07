@@ -26,13 +26,10 @@
 ##### Extract to C:\Users\\%username%\Saved Games\CD Projekt Red\
 
 ###### Favourite quotes
-> "Wake the fuck up, Samurai! We have a city to burn."
-<br />
-> "Haven't forgotten a thing. Never will."
-<br />
-> "Goodbye, V. And never stop fightin'" 
-<br />
-> "See you in the major leagues Jack"
+> "Wake the fuck up, Samurai! We have a city to burn."  
+> "Haven't forgotten a thing. Never will."  
+> "Goodbye, V. And never stop fightin'"  
+> "See you in the major leagues Jack"  
 
 Well well, after playing 100+ hrs, I found this game is the one of the best games I've ever played so far. I know there're bugs, glitches, bad AI & physics, but the story.., it's GOOD! Specially in romance with [Judy](https://www.youtube.com/watch?v=3fW3QhJZ8Io) and the [endings](https://www.youtube.com/watch?v=48-AY6Wz-7A), it's really emotional ❤️ Overall, it's a very good game to play!
 
