@@ -14,6 +14,8 @@
 
 ### List
 
+[Sniper Ghost Warrior 3](Sniper%20Ghost%20Warrior%203/readme.md)
+
 [Cyberpunk 2077](Cyberpunk%202077/readme.md)
 
 [BioShock Infinite - GOTY Edition](BioShock%20Infinite%20-%20GOTY%20Edition/readme.md)
