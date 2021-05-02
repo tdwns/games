@@ -17,4 +17,4 @@
 Difficulty: Hard
 Main and side missions are completed, few outposts and most wanted targets left.
 
-Facebook post: 
+Facebook post: https://www.facebook.com/tdwns/posts/1539756996219247

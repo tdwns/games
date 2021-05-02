@@ -1,6 +1,10 @@
 # Cyberpunk 2077
 [Save files: Cyberpunk 2077.7z](Cyberpunk%202077.7z?raw=true)
 <br />
+##### Extract to C:\Users\\%username%\Saved Games\CD Projekt Red\
+[Save files: Steam achievements 1091500.7z](1091500.7z?raw=true)
+<br />
+##### Extract to C:\Users\Public\Documents\Steam\CODEX
 [Screenshots.7z.001](Screenshots.7z.001?raw=true)
 <br />
 [Screenshots.7z.002](Screenshots.7z.002?raw=true)
@@ -22,8 +26,6 @@
 <br />
 [Cyberpunk2077 2021-04-05 23-37-47-111-V Suicides.mkv](Videos/Cyberpunk2077%202021-04-05%2023-37-47-111-V%20Suicides.mkv?raw=true)
 <br />
-
-##### Extract to C:\Users\\%username%\Saved Games\CD Projekt Red\
 
 ###### Favourite quotes
 > "Wake the fuck up, Samurai! We have a city to burn."  
