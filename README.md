@@ -14,6 +14,8 @@
 
 ### List
 
+[Far Cry 5 - Gold Edition](Far%20Cry%205/readme.md)
+
 [Sniper Ghost Warrior 3](Sniper%20Ghost%20Warrior%203/readme.md)
 
 [Cyberpunk 2077](Cyberpunk%202077/readme.md)
