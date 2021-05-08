@@ -14,6 +14,8 @@
 
 ### List
 
+[Quantum Break](Quantum%20Break/readme.md)
+
 [Far Cry 5 - Gold Edition](Far%20Cry%205/readme.md)
 
 [Sniper Ghost Warrior 3](Sniper%20Ghost%20Warrior%203/readme.md)
