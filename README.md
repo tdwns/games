@@ -14,6 +14,8 @@
 
 ### List
 
+[Detroit Become Human](Detroit%20Become%20Human/readme.md)
+
 [Quantum Break](Quantum%20Break/readme.md)
 
 [Far Cry 5 - Gold Edition](Far%20Cry%205/readme.md)
