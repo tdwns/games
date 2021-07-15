@@ -14,6 +14,8 @@
 
 ### List
 
+[Titanfall 2](Titanfall%202/readme.md)
+
 [Detroit Become Human](Detroit%20Become%20Human/readme.md)
 
 [Quantum Break](Quantum%20Break/readme.md)
