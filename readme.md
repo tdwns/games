@@ -18,6 +18,12 @@
 `* marked - best games ❤️`
 <br/>
 <br/>
+[Alan Wake Remastered](Alan%20Wake%20Remastered/readme.md)
+
+[Sniper Ghost Warrior Contracts 2](Sniper%20Ghost%20Warrior%20Contracts%202/readme.md)
+
+[Far Cry 6](Far%20Cry%205/readme.md)
+
 [Death Stranding *](Death%20Stranding/readme.md)
 
 [Tom Clancy's Ghost Recon - Wildlands *](Tom%20Clancy's%20Ghost%20Recon%20-%20Wildlands/readme.md)
