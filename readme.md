@@ -18,6 +18,8 @@
 `* marked - best games ❤️`
 <br/>
 <br/>
+[Serious Sam - Siberian Mayhem](Serious%20Sam%20-%20Siberian%20Mayhem)
+
 [Alan Wake Remastered](Alan%20Wake%20Remastered/readme.md)
 
 [Sniper Ghost Warrior Contracts 2](Sniper%20Ghost%20Warrior%20Contracts%202/readme.md)
