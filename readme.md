@@ -20,199 +20,199 @@
 <br/>
 [Serious Sam - Siberian Mayhem](Serious%20Sam%20-%20Siberian%20Mayhem)
 
-[Alan Wake Remastered](Alan%20Wake%20Remastered/readme.md)
+[Alan Wake Remastered](Alan%20Wake%20Remastered)
 
-[Sniper Ghost Warrior Contracts 2](Sniper%20Ghost%20Warrior%20Contracts%202/readme.md)
+[Sniper Ghost Warrior Contracts 2](Sniper%20Ghost%20Warrior%20Contracts%202)
 
-[Far Cry 6](Far%20Cry%205/readme.md)
+[Far Cry 6](Far%20Cry%205)
 
-[Death Stranding *](Death%20Stranding/readme.md)
+[Death Stranding *](Death%20Stranding)
 
-[Tom Clancy's Ghost Recon - Wildlands *](Tom%20Clancy's%20Ghost%20Recon%20-%20Wildlands/readme.md)
+[Tom Clancy's Ghost Recon - Wildlands *](Tom%20Clancy's%20Ghost%20Recon%20-%20Wildlands)
 
-[Far Cry New Dawn](Far%20Cry%20New%20Dawn/readme.md)
+[Far Cry New Dawn](Far%20Cry%20New%20Dawn)
 
-[Sniper Ghost Warrior Contracts](Sniper%20Ghost%20Warrior%20Contracts/readme.md)
+[Sniper Ghost Warrior Contracts](Sniper%20Ghost%20Warrior%20Contracts)
 
-[Beyond Two Souls *](Beyond%20Two%20Souls/readme.md)
+[Beyond Two Souls *](Beyond%20Two%20Souls)
 
-[Titanfall 2 *](Titanfall%202/readme.md)
+[Titanfall 2 *](Titanfall%202)
 
-[Detroit Become Human *](Detroit%20Become%20Human/readme.md)
+[Detroit Become Human *](Detroit%20Become%20Human)
 
-[Quantum Break *](Quantum%20Break/readme.md)
+[Quantum Break *](Quantum%20Break)
 
-[Far Cry 5 - Gold Edition](Far%20Cry%205/readme.md)
+[Far Cry 5 - Gold Edition](Far%20Cry%205)
 
-[Sniper Ghost Warrior 3 *](Sniper%20Ghost%20Warrior%203/readme.md)
+[Sniper Ghost Warrior 3 *](Sniper%20Ghost%20Warrior%203)
 
-[Cyberpunk 2077 *](Cyberpunk%202077/readme.md)
+[Cyberpunk 2077 *](Cyberpunk%202077)
 
-[BioShock Infinite - GOTY Edition *](BioShock%20Infinite%20-%20GOTY%20Edition/readme.md)
+[BioShock Infinite - GOTY Edition *](BioShock%20Infinite%20-%20GOTY%20Edition)
 
-[BioShock 2 Remastered *](BioShock%202%20Remastered/readme.md)
+[BioShock 2 Remastered *](BioShock%202%20Remastered)
 
-[BioShock Remastered *](BioShock%20Remastered/readme.md)
+[BioShock Remastered *](BioShock%20Remastered)
 
-[Mafia Definitive Edition *](Mafia%20Definitive%20Edition/readme.md)
+[Mafia Definitive Edition *](Mafia%20Definitive%20Edition)
 
-[Watch Dogs 2](Watch%20Dogs%202/readme.md)
+[Watch Dogs 2](Watch%20Dogs%202)
 
-[Far Cry 4 *](Far%20Cry%204/readme.md)
+[Far Cry 4 *](Far%20Cry%204)
 
-[Shadow of the Tomb Raider *](Shadow%20of%20the%20Tomb%20Raider/readme.md)
+[Shadow of the Tomb Raider *](Shadow%20of%20the%20Tomb%20Raider)
 
-[Far Cry 3 *](Far%20Cry%203/readme.md)
+[Far Cry 3 *](Far%20Cry%203)
 
-[Control *](Control/readme.md)
+[Control *](Control)
 
-[Watch_Dogs *](Watch_Dogs/readme.md)
+[Watch_Dogs *](Watch_Dogs)
 
-[Max Max *](Max%20Max/readme.md)
+[Max Max *](Max%20Max)
 
-[Need for Speed Heat](Need%20for%20Speed%20Heat/readme.md)
+[Need for Speed Heat](Need%20for%20Speed%20Heat)
 
-[Call of Duty Modern Warfare 3 *](Call%20of%20Duty%20Modern%20Warfare%203/readme.md)
+[Call of Duty Modern Warfare 3 *](Call%20of%20Duty%20Modern%20Warfare%203)
 
-[Call of Duty Modern Warfare 2 *](Call%20of%20Duty%20Modern%20Warfare%202/readme.md)
+[Call of Duty Modern Warfare 2 *](Call%20of%20Duty%20Modern%20Warfare%202)
 
-[Battlefield 1 *](Battlefield%201/readme.md)
+[Battlefield 1 *](Battlefield%201)
 
-[Call of Duty Modern Warfare *](Call%20of%20Duty%20Modern%20Warfare/readme.md)
+[Call of Duty Modern Warfare *](Call%20of%20Duty%20Modern%20Warfare)
 
-[Tom Clancy's Splinter Cell Blacklist](Tom%20Clancy's%20Splinter%20Cell%20Blacklist/readme.md)
+[Tom Clancy's Splinter Cell Blacklist](Tom%20Clancy's%20Splinter%20Cell%20Blacklist)
 
-[Tom Clancy's Ghost Recon Future Soldier](Tom%20Clancy's%20Ghost%20Recon%20Future%20Soldier/readme.md)
+[Tom Clancy's Ghost Recon Future Soldier](Tom%20Clancy's%20Ghost%20Recon%20Future%20Soldier)
 
-[Test Drive Unlimited 2](Test%20Drive%20Unlimited%202/readme.md)
+[Test Drive Unlimited 2](Test%20Drive%20Unlimited%202)
 
-[Splinter Cell Conviction](Splinter%20Cell%20Conviction/readme.md)
+[Splinter Cell Conviction](Splinter%20Cell%20Conviction)
 
-[Split Second Velocity](Split%20Second%20Velocity/readme.md)
+[Split Second Velocity](Split%20Second%20Velocity)
 
-[SpecOps-TheLine *](SpecOps-TheLine/readme.md)
+[SpecOps-TheLine *](SpecOps-TheLine)
 
-[Sniper Ghost Warrior 2 *](Sniper%20Ghost%20Warrior%202/readme.md)
+[Sniper Ghost Warrior 2 *](Sniper%20Ghost%20Warrior%202)
 
-[Sniper Elite 4 *](Sniper%20Elite%204/readme.md)
+[Sniper Elite 4 *](Sniper%20Elite%204)
 
-[Sniper Art of Victory](Sniper%20Art%20of%20Victory/readme.md)
+[Sniper Art of Victory](Sniper%20Art%20of%20Victory)
 
-[Robocop](Robocop/readme.md)
+[Robocop](Robocop)
 
-[Rise of the Tomb Raider *](Rise%20of%20the%20Tomb%20Raider/readme.md)
+[Rise of the Tomb Raider *](Rise%20of%20the%20Tomb%20Raider)
 
-[Rig n Roll](Rig%20n%20Roll/readme.md)
+[Rig n Roll](Rig%20n%20Roll)
 
-[Ridge Racer Unbounded](Ridge%20Racer%20Unbounded/readme.md)
+[Ridge Racer Unbounded](Ridge%20Racer%20Unbounded)
 
-[Rainbow Six - Siege](Rainbow%20Six%20-%20Siege/readme.md)
+[Rainbow Six - Siege](Rainbow%20Six%20-%20Siege)
 
-[Ori and the Blind Forest *](Ori%20and%20the%20Blind%20Forest/readme.md)
+[Ori and the Blind Forest *](Ori%20and%20the%20Blind%20Forest)
 
-[Need for Speed Underground 2 *](Need%20for%20Speed%20Underground%202/readme.md)
+[Need for Speed Underground 2 *](Need%20for%20Speed%20Underground%202)
 
-[Need for Speed Underground 1](Need%20for%20Speed%20Underground%201/readme.md)
+[Need for Speed Underground 1](Need%20for%20Speed%20Underground%201)
 
-[Need for Speed Undercover](Need%20for%20Speed%20Undercover/readme.md)
+[Need for Speed Undercover](Need%20for%20Speed%20Undercover)
 
-[Need for Speed The Run *](Need%20for%20Speed%20The%20Run/readme.md)
+[Need for Speed The Run *](Need%20for%20Speed%20The%20Run)
 
-[Need for Speed Rivals *](Need%20for%20Speed%20Rivals/readme.md)
+[Need for Speed Rivals *](Need%20for%20Speed%20Rivals)
 
-[Need for Speed Payback *](Need%20for%20Speed%20Payback/readme.md)
+[Need for Speed Payback *](Need%20for%20Speed%20Payback)
 
-[Need for Speed Most Wanted *](Need%20for%20Speed%20Most%20Wanted/readme.md)
+[Need for Speed Most Wanted *](Need%20for%20Speed%20Most%20Wanted)
 
-[Need for Speed Most Wanted 2012](Need%20for%20Speed%20Most%20Wanted%202012/readme.md)
+[Need for Speed Most Wanted 2012](Need%20for%20Speed%20Most%20Wanted%202012)
 
-[Need for Speed Hot Pursuit 2010 *](Need%20for%20Speed%20Hot%20Pursuit%202010/readme.md)
+[Need for Speed Hot Pursuit 2010 *](Need%20for%20Speed%20Hot%20Pursuit%202010)
 
-[Need for Speed 2 (II) SE](Need%20for%20Speed%202%20(II)%20SE/readme.md)
+[Need for Speed 2 (II) SE](Need%20for%20Speed%202%20(II)%20SE)
 
-[Need for Speed Carbon *](Need%20for%20Speed%20Carbon/readme.md)
+[Need for Speed Carbon *](Need%20for%20Speed%20Carbon)
 
-[Metal Gear Solid V - The Phantom Pain *](Metal%20Gear%20Solid%20V%20-%20The%20Phantom%20Pain/readme.md)
+[Metal Gear Solid V - The Phantom Pain *](Metal%20Gear%20Solid%20V%20-%20The%20Phantom%20Pain)
 
-[Medal of Honor Warfighter](Medal%20of%20Honor%20Warfighter/readme.md)
+[Medal of Honor Warfighter](Medal%20of%20Honor%20Warfighter)
 
-[Mass Effect 3](Mass%20Effect%203/readme.md)
+[Mass Effect 3](Mass%20Effect%203)
 
-[King of the Road *](King%20of%20the%20Road/readme.md)
+[King of the Road *](King%20of%20the%20Road)
 
-[Just Cause 2](Just%20Cause%202/readme.md)
+[Just Cause 2](Just%20Cause%202)
 
-[IGI 2 *](IGI%202/readme.md)
+[IGI 2 *](IGI%202)
 
-[IGI 1](IGI%201/readme.md)
+[IGI 1](IGI%201)
 
-[Harry Potter and the Prisoner of Azkaban](Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban/readme.md)
+[Harry Potter and the Prisoner of Azkaban](Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban)
 
-[Harry Potter and the Half-Blood Prince](Harry%20Potter%20and%20the%20Half-Blood%20Prince/readme.md)
+[Harry Potter and the Half-Blood Prince](Harry%20Potter%20and%20the%20Half-Blood%20Prince)
 
-[Harry Potter and the Order of the Phoenix](Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix/readme.md)
+[Harry Potter and the Order of the Phoenix](Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix)
 
-[Harry Potter and the Goblet of Fire](Harry%20Potter%20and%20the%20Goblet%20of%20Fire/readme.md)
+[Harry Potter and the Goblet of Fire](Harry%20Potter%20and%20the%20Goblet%20of%20Fire)
 
-[Harry Potter and the Deathly Hallows (TM) – Part 1](Harry%20Potter%20and%20the%20Deathly%20Hallows%20(TM)%20–%20Part%201/readme.md)
+[Harry Potter and the Deathly Hallows (TM) – Part 1](Harry%20Potter%20and%20the%20Deathly%20Hallows%20(TM)%20–%20Part%201)
 
-[Harry Potter and the Chamber of Secrets](Harry%20Potter%20and%20the%20Chamber%20of%20Secrets/readme.md)
+[Harry Potter and the Chamber of Secrets](Harry%20Potter%20and%20the%20Chamber%20of%20Secrets)
 
-[HOMEFRONT](HOMEFRONT/readme.md)
+[HOMEFRONT](HOMEFRONT)
 
-[Grand Theft Auto Vice City *](Grand%20Theft%20Auto%20Vice%20City/readme.md)
+[Grand Theft Auto Vice City *](Grand%20Theft%20Auto%20Vice%20City)
 
-[Grand Theft Auto San Andreas *](Grand%20Theft%20Auto%20San%20Andreas/readme.md)
+[Grand Theft Auto San Andreas *](Grand%20Theft%20Auto%20San%20Andreas)
 
-[German Truck Simulator](German%20Truck%20Simulator/readme.md)
+[German Truck Simulator](German%20Truck%20Simulator)
 
-[Flatout 4](Flatout%204/readme.md)
+[Flatout 4](Flatout%204)
 
-[Euro Truck Simulator](Euro%20Truck%20Simulator/readme.md)
+[Euro Truck Simulator](Euro%20Truck%20Simulator)
 
-[Euro Truck Simulator 2](Euro%20Truck%20Simulator%202/readme.md)
+[Euro Truck Simulator 2](Euro%20Truck%20Simulator%202)
 
-[Crysis 3 *](Crysis%203/readme.md)
+[Crysis 3 *](Crysis%203)
 
-[Company of Heroes](Company%20of%20Heroes/readme.md)
+[Company of Heroes](Company%20of%20Heroes)
 
-[Call of Duty World at War](Call%20of%20Duty%20World%20at%20War/readme.md)
+[Call of Duty World at War](Call%20of%20Duty%20World%20at%20War)
 
-[Call of Duty WWII *](Call%20of%20Duty%20WWII/readme.md)
+[Call of Duty WWII *](Call%20of%20Duty%20WWII)
 
-[Call of Duty United Offensive](Call%20of%20Duty%20United%20Offensive/readme.md)
+[Call of Duty United Offensive](Call%20of%20Duty%20United%20Offensive)
 
-[Call of Duty Infinite Warfare](Call%20of%20Duty%20Infinite%20Warfare/readme.md)
+[Call of Duty Infinite Warfare](Call%20of%20Duty%20Infinite%20Warfare)
 
-[Call of Duty Ghosts *](Call%20of%20Duty%20Ghosts/readme.md)
+[Call of Duty Ghosts *](Call%20of%20Duty%20Ghosts)
 
-[Call of Duty Black Ops *](Call%20of%20Duty%20Black%20Ops/readme.md)
+[Call of Duty Black Ops *](Call%20of%20Duty%20Black%20Ops)
 
-[Call of Duty Black Ops II *](Call%20of%20Duty%20Black%20Ops%20II/readme.md)
+[Call of Duty Black Ops II *](Call%20of%20Duty%20Black%20Ops%20II)
 
-[Call of Duty Black Ops 3 *](Call%20of%20Duty%20Black%20Ops%203/readme.md)
+[Call of Duty Black Ops 3 *](Call%20of%20Duty%20Black%20Ops%203)
 
-[Call of Duty Advanced Warfare *](Call%20of%20Duty%20Advanced%20Warfare/readme.md)
+[Call of Duty Advanced Warfare *](Call%20of%20Duty%20Advanced%20Warfare)
 
-[Call of Duty 1](Call%20of%20Duty%201/readme.md)
+[Call of Duty 1](Call%20of%20Duty%201)
 
-[Bus Driver](Bus%20Driver/readme.md)
+[Bus Driver](Bus%20Driver)
 
-[Battlefield V *](Battlefield%20V/readme.md)
+[Battlefield V *](Battlefield%20V)
 
-[Battlefield Hardline *](Battlefield%20Hardline/readme.md)
+[Battlefield Hardline *](Battlefield%20Hardline)
 
-[Battlefield Bad Company 2 *](Battlefield%20Bad%20Company%202/readme.md)
+[Battlefield Bad Company 2 *](Battlefield%20Bad%20Company%202)
 
-[Battlefield 4 *](Battlefield%204/readme.md)
+[Battlefield 4 *](Battlefield%204)
 
-[Battlefield 3 *](Battlefield%203/readme.md)
+[Battlefield 3 *](Battlefield%203)
 
-[BATMAN](BATMAN/readme.md)
+[BATMAN](BATMAN)
 
-[Army Ranger - Mogadishu](Army%20Ranger%20-%20Mogadishu/readme.md)
+[Army Ranger - Mogadishu](Army%20Ranger%20-%20Mogadishu)
 
-[Arma 3](Arma%203/readme.md)
+[Arma 3](Arma%203)
 
-[18 Wheels of Steel Extreme Trucker](18%20Wheels%20of%20Steel%20Extreme%20Trucker/readme.md)
+[18 Wheels of Steel Extreme Trucker](18%20Wheels%20of%20Steel%20Extreme%20Trucker)
 

@@ -2,7 +2,7 @@
 [Save files Watch Dogs 2: Player.7z](Player.7z?raw=true)
 
 CPY version
-Extract to Documents\CPY_SAVES
+##### Extract to: Documents\CPY_SAVES
 
 ###### Favourite quotes
 > "You are now less valuable than the data you produce." 😯👌
