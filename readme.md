@@ -15,70 +15,72 @@
 #### Interested in Movies / TV Series? [My Movie Database](https://github.com/tdwns/emdb)
 
 ### List
-`* marked - best games ❤️`
+`❤️ - best games`
 <br/>
-<br/>
-[Serious Sam - Siberian Mayhem](Serious%20Sam%20-%20Siberian%20Mayhem)
 
-[Alan Wake Remastered](Alan%20Wake%20Remastered)
+[Wolfenstein The New Order ❤️](Wolfenstein%20The%20New%20Order)
+
+[Serious Sam - Siberian Mayhem ❤️](Serious%20Sam%20-%20Siberian%20Mayhem)
+
+[Alan Wake Remastered ❤️](Alan%20Wake%20Remastered)
 
 [Sniper Ghost Warrior Contracts 2](Sniper%20Ghost%20Warrior%20Contracts%202)
 
 [Far Cry 6](Far%20Cry%205)
 
-[Death Stranding *](Death%20Stranding)
+[Death Stranding ❤️](Death%20Stranding)
 
-[Tom Clancy's Ghost Recon - Wildlands *](Tom%20Clancy's%20Ghost%20Recon%20-%20Wildlands)
+[Tom Clancy's Ghost Recon - Wildlands ❤️](Tom%20Clancy's%20Ghost%20Recon%20-%20Wildlands)
 
 [Far Cry New Dawn](Far%20Cry%20New%20Dawn)
 
 [Sniper Ghost Warrior Contracts](Sniper%20Ghost%20Warrior%20Contracts)
 
-[Beyond Two Souls *](Beyond%20Two%20Souls)
+[Beyond Two Souls ❤️](Beyond%20Two%20Souls)
 
-[Titanfall 2 *](Titanfall%202)
+[Titanfall 2 ❤️](Titanfall%202)
 
-[Detroit Become Human *](Detroit%20Become%20Human)
+[Detroit Become Human ❤️](Detroit%20Become%20Human)
 
-[Quantum Break *](Quantum%20Break)
+[Quantum Break ❤️](Quantum%20Break)
 
 [Far Cry 5 - Gold Edition](Far%20Cry%205)
 
-[Sniper Ghost Warrior 3 *](Sniper%20Ghost%20Warrior%203)
+[Sniper Ghost Warrior 3 ❤️](Sniper%20Ghost%20Warrior%203)
 
-[Cyberpunk 2077 *](Cyberpunk%202077)
+[Cyberpunk 2077 ❤️](Cyberpunk%202077)
 
-[BioShock Infinite - GOTY Edition *](BioShock%20Infinite%20-%20GOTY%20Edition)
+[BioShock Infinite - GOTY Edition ❤️](BioShock%20Infinite%20-%20GOTY%20Edition)
 
-[BioShock 2 Remastered *](BioShock%202%20Remastered)
+[BioShock 2 Remastered ❤️](BioShock%202%20Remastered)
 
-[BioShock Remastered *](BioShock%20Remastered)
+[BioShock Remastered ❤️](BioShock%20Remastered)
 
-[Mafia Definitive Edition *](Mafia%20Definitive%20Edition)
+[Mafia Definitive Edition ❤️](Mafia%20Definitive%20Edition)
 
 [Watch Dogs 2](Watch%20Dogs%202)
 
-[Far Cry 4 *](Far%20Cry%204)
+[Far Cry 4 ❤️](Far%20Cry%204)
 
-[Shadow of the Tomb Raider *](Shadow%20of%20the%20Tomb%20Raider)
+[Shadow of the Tomb Raider ❤️](Shadow%20of%20the%20Tomb%20Raider)
 
-[Far Cry 3 *](Far%20Cry%203)
+[Far Cry 3 ❤️](Far%20Cry%203)
 
-[Control *](Control)
+[Control ❤️](Control)
 
-[Watch_Dogs *](Watch_Dogs)
+[Watch_Dogs ❤️](Watch_Dogs)
 
-[Max Max *](Max%20Max)
+[Max Max ❤️](Max%20Max)
 
 [Need for Speed Heat](Need%20for%20Speed%20Heat)
 
-[Call of Duty Modern Warfare 3 *](Call%20of%20Duty%20Modern%20Warfare%203)
+[Call of Duty Modern Warfare 3 ❤️](Call%20of%20Duty%20Modern%20Warfare%203)
 
-[Call of Duty Modern Warfare 2 *](Call%20of%20Duty%20Modern%20Warfare%202)
+[Call of Duty Modern Warfare 2 ❤️](Call%20of%20Duty%20Modern%20Warfare%202)
 
-[Battlefield 1 *](Battlefield%201)
+[Battlefield 1 ❤️](Battlefield%201)
 
-[Call of Duty Modern Warfare *](Call%20of%20Duty%20Modern%20Warfare)
+[Call of Duty Modern Warfare ❤️](Call%20of%20Duty%20Modern%20Warfare)
 
 [Tom Clancy's Splinter Cell Blacklist](Tom%20Clancy's%20Splinter%20Cell%20Blacklist)
 
@@ -90,17 +92,17 @@
 
 [Split Second Velocity](Split%20Second%20Velocity)
 
-[SpecOps-TheLine *](SpecOps-TheLine)
+[SpecOps-TheLine ❤️](SpecOps-TheLine)
 
-[Sniper Ghost Warrior 2 *](Sniper%20Ghost%20Warrior%202)
+[Sniper Ghost Warrior 2 ❤️](Sniper%20Ghost%20Warrior%202)
 
-[Sniper Elite 4 *](Sniper%20Elite%204)
+[Sniper Elite 4 ❤️](Sniper%20Elite%204)
 
 [Sniper Art of Victory](Sniper%20Art%20of%20Victory)
 
 [Robocop](Robocop)
 
-[Rise of the Tomb Raider *](Rise%20of%20the%20Tomb%20Raider)
+[Rise of the Tomb Raider ❤️](Rise%20of%20the%20Tomb%20Raider)
 
 [Rig n Roll](Rig%20n%20Roll)
 
@@ -108,41 +110,41 @@
 
 [Rainbow Six - Siege](Rainbow%20Six%20-%20Siege)
 
-[Ori and the Blind Forest *](Ori%20and%20the%20Blind%20Forest)
+[Ori and the Blind Forest ❤️](Ori%20and%20the%20Blind%20Forest)
 
-[Need for Speed Underground 2 *](Need%20for%20Speed%20Underground%202)
+[Need for Speed Underground 2 ❤️](Need%20for%20Speed%20Underground%202)
 
 [Need for Speed Underground 1](Need%20for%20Speed%20Underground%201)
 
 [Need for Speed Undercover](Need%20for%20Speed%20Undercover)
 
-[Need for Speed The Run *](Need%20for%20Speed%20The%20Run)
+[Need for Speed The Run ❤️](Need%20for%20Speed%20The%20Run)
 
-[Need for Speed Rivals *](Need%20for%20Speed%20Rivals)
+[Need for Speed Rivals ❤️](Need%20for%20Speed%20Rivals)
 
-[Need for Speed Payback *](Need%20for%20Speed%20Payback)
+[Need for Speed Payback ❤️](Need%20for%20Speed%20Payback)
 
-[Need for Speed Most Wanted *](Need%20for%20Speed%20Most%20Wanted)
+[Need for Speed Most Wanted ❤️](Need%20for%20Speed%20Most%20Wanted)
 
 [Need for Speed Most Wanted 2012](Need%20for%20Speed%20Most%20Wanted%202012)
 
-[Need for Speed Hot Pursuit 2010 *](Need%20for%20Speed%20Hot%20Pursuit%202010)
+[Need for Speed Hot Pursuit 2010 ❤️](Need%20for%20Speed%20Hot%20Pursuit%202010)
 
 [Need for Speed 2 (II) SE](Need%20for%20Speed%202%20(II)%20SE)
 
-[Need for Speed Carbon *](Need%20for%20Speed%20Carbon)
+[Need for Speed Carbon ❤️](Need%20for%20Speed%20Carbon)
 
-[Metal Gear Solid V - The Phantom Pain *](Metal%20Gear%20Solid%20V%20-%20The%20Phantom%20Pain)
+[Metal Gear Solid V - The Phantom Pain ❤️](Metal%20Gear%20Solid%20V%20-%20The%20Phantom%20Pain)
 
 [Medal of Honor Warfighter](Medal%20of%20Honor%20Warfighter)
 
 [Mass Effect 3](Mass%20Effect%203)
 
-[King of the Road *](King%20of%20the%20Road)
+[King of the Road ❤️](King%20of%20the%20Road)
 
 [Just Cause 2](Just%20Cause%202)
 
-[IGI 2 *](IGI%202)
+[IGI 2 ❤️](IGI%202)
 
 [IGI 1](IGI%201)
 
@@ -160,9 +162,9 @@
 
 [HOMEFRONT](HOMEFRONT)
 
-[Grand Theft Auto Vice City *](Grand%20Theft%20Auto%20Vice%20City)
+[Grand Theft Auto Vice City ❤️](Grand%20Theft%20Auto%20Vice%20City)
 
-[Grand Theft Auto San Andreas *](Grand%20Theft%20Auto%20San%20Andreas)
+[Grand Theft Auto San Andreas ❤️](Grand%20Theft%20Auto%20San%20Andreas)
 
 [German Truck Simulator](German%20Truck%20Simulator)
 
@@ -172,41 +174,41 @@
 
 [Euro Truck Simulator 2](Euro%20Truck%20Simulator%202)
 
-[Crysis 3 *](Crysis%203)
+[Crysis 3 ❤️](Crysis%203)
 
 [Company of Heroes](Company%20of%20Heroes)
 
 [Call of Duty World at War](Call%20of%20Duty%20World%20at%20War)
 
-[Call of Duty WWII *](Call%20of%20Duty%20WWII)
+[Call of Duty WWII ❤️](Call%20of%20Duty%20WWII)
 
 [Call of Duty United Offensive](Call%20of%20Duty%20United%20Offensive)
 
 [Call of Duty Infinite Warfare](Call%20of%20Duty%20Infinite%20Warfare)
 
-[Call of Duty Ghosts *](Call%20of%20Duty%20Ghosts)
+[Call of Duty Ghosts ❤️](Call%20of%20Duty%20Ghosts)
 
-[Call of Duty Black Ops *](Call%20of%20Duty%20Black%20Ops)
+[Call of Duty Black Ops ❤️](Call%20of%20Duty%20Black%20Ops)
 
-[Call of Duty Black Ops II *](Call%20of%20Duty%20Black%20Ops%20II)
+[Call of Duty Black Ops II ❤️](Call%20of%20Duty%20Black%20Ops%20II)
 
-[Call of Duty Black Ops 3 *](Call%20of%20Duty%20Black%20Ops%203)
+[Call of Duty Black Ops 3 ❤️](Call%20of%20Duty%20Black%20Ops%203)
 
-[Call of Duty Advanced Warfare *](Call%20of%20Duty%20Advanced%20Warfare)
+[Call of Duty Advanced Warfare ❤️](Call%20of%20Duty%20Advanced%20Warfare)
 
 [Call of Duty 1](Call%20of%20Duty%201)
 
 [Bus Driver](Bus%20Driver)
 
-[Battlefield V *](Battlefield%20V)
+[Battlefield V ❤️](Battlefield%20V)
 
-[Battlefield Hardline *](Battlefield%20Hardline)
+[Battlefield Hardline ❤️](Battlefield%20Hardline)
 
-[Battlefield Bad Company 2 *](Battlefield%20Bad%20Company%202)
+[Battlefield Bad Company 2 ❤️](Battlefield%20Bad%20Company%202)
 
-[Battlefield 4 *](Battlefield%204)
+[Battlefield 4 ❤️](Battlefield%204)
 
-[Battlefield 3 *](Battlefield%203)
+[Battlefield 3 ❤️](Battlefield%203)
 
 [BATMAN](BATMAN)
 
