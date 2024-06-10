@@ -18,6 +18,8 @@
 `❤️ - best games`
 <br/>
 
+[Just Cause 3 ❤️](Just%20Cause%203)
+
 [Wolfenstein The New Order ❤️](Wolfenstein%20The%20New%20Order)
 
 [Serious Sam - Siberian Mayhem ❤️](Serious%20Sam%20-%20Siberian%20Mayhem)
